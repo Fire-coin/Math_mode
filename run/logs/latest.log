@@ -1,5 +1,5 @@
-[16:52:15] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[16:52:16] [main/INFO] (FabricLoader) Loading 55 mods:
+[19:41:14] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[19:41:15] [main/INFO] (FabricLoader) Loading 55 mods:
 	- fabric-api 0.124.2+1.21.5
 	- fabric-api-base 0.4.62+73a52b4b49
 	- fabric-api-lookup-api-v1 1.6.96+86c3a9f149
@@ -55,21 +55,21 @@
 	- mathmode 1.0-SNAPSHOT
 	- minecraft 1.21.5
 	- mixinextras 0.4.1
-[16:52:16] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/maxim/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
-[16:52:16] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[16:52:16] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[16:52:19] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[16:52:22] [Datafixer Bootstrap/INFO] (Minecraft) 263 Datafixer optimizations took 2101 milliseconds
-[16:52:29] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:52:29] [Render thread/INFO] (Minecraft) Setting user: Player248
-[16:52:30] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
-[16:52:30] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
-[16:52:31] [Render thread/INFO] (Minecraft) Using optional rendering extensions: GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
-[16:52:32] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, mathmode
-[16:52:32] [Worker-Main-2/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
-[16:52:32] [Worker-Main-4/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
-[16:52:32] [Download-1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
-[16:52:32] [Download-1/ERROR] (Minecraft) Failed to fetch Realms feature flags
+[19:41:15] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/maxim/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[19:41:15] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[19:41:15] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[19:41:16] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:41:18] [Datafixer Bootstrap/INFO] (Minecraft) 263 Datafixer optimizations took 1055 milliseconds
+[19:41:22] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:41:22] [Render thread/INFO] (Minecraft) Setting user: Player936
+[19:41:22] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[19:41:23] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[19:41:23] [Render thread/INFO] (Minecraft) Using optional rendering extensions: GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
+[19:41:24] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, mathmode
+[19:41:24] [Worker-Main-9/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
+[19:41:24] [Worker-Main-5/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
+[19:41:24] [Download-1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
+[19:41:24] [Download-1/ERROR] (Minecraft) Failed to fetch Realms feature flags
 net.minecraft.client.realms.exception.RealmsServiceException: Realms authentication error with message 'Invalid session id'
 	at knot/net.minecraft.client.realms.RealmsClient.execute(RealmsClient.java:495) ~[minecraft-clientOnly-aefb5c6627-1.21.5-net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2.jar:?]
 	at knot/net.minecraft.client.realms.RealmsClient.fetchFeatureFlags(RealmsClient.java:177) ~[minecraft-clientOnly-aefb5c6627-1.21.5-net.fabricmc.yarn.1_21_5.1.21.5+build.1-v2.jar:?]
@@ -77,123 +77,269 @@ net.minecraft.client.realms.exception.RealmsServiceException: Realms authenticat
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[16:52:33] [Worker-Main-9/WARN] (Minecraft) Missing textures in model mathmode:item/equation:
-    minecraft:textures/atlas/blocks.png:mathmode:item/equation
-[16:52:33] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/eyes
-[16:52:33] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/eyes
-[16:52:33] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/energy_swirl
-[16:52:33] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/energy_swirl
-[16:52:33] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_translucent
-[16:52:33] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/breeze_wind
-[16:52:33] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_cutout_no_cull
-[16:52:33] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_decal_cutout_no_cull
-[16:52:33] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/entity_no_outline
-[16:52:35] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speaker (2- Realtek(R) Audio)
-[16:52:35] [Render thread/INFO] (Minecraft) Sound engine started
-[16:52:35] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[16:52:35] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[16:52:35] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[16:52:35] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[16:52:35] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[16:52:36] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[16:52:36] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[16:52:36] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[16:52:36] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[16:52:36] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[16:52:36] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[16:52:36] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[16:52:36] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[16:52:36] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[16:52:38] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:52:38] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:52:38] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:52:38] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:52:41] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:17] [Render thread/INFO] (Minecraft) Loaded 1373 recipes
-[16:53:17] [Render thread/INFO] (Minecraft) Loaded 1484 advancements
-[16:53:17] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 65 new biomes in 1.813 ms
-[16:53:17] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21.5
-[16:53:17] [Server thread/INFO] (Minecraft) Generating keypair
-[16:53:18] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:19] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[16:53:20] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[16:53:20] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[16:53:20] [Render thread/INFO] (Minecraft) Time elapsed: 1176 ms
-[16:53:21] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
-[16:53:21] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
-[16:53:22] [Server thread/ERROR] (Minecraft) Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mathmode:custom_item'
-[16:53:22] [Server thread/INFO] (Minecraft) Player248[local:E:d0e2f173] logged in with entity id 114 at (110.69999998807907, 66.0, 711.7259784322017)
-[16:53:22] [Server thread/INFO] (Minecraft) Player248 joined the game
-[16:53:23] [Render thread/INFO] (Minecraft) Loaded 4 advancements
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:23] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:24] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:25] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[16:53:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:overworld
-[16:53:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_end
-[16:53:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_nether
-[16:53:26] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:26] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:26] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:26] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:27] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:28] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:34] [Server thread/INFO] (Minecraft) [Player248: Gave 1 [item.mathmode.equation] to Player248]
-[16:53:34] [Render thread/INFO] (Minecraft) [System] [CHAT] Gave 1 [item.mathmode.equation] to Player248
-[16:53:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:38] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:44] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
-[16:53:48] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[16:53:48] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:overworld
-[16:53:48] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_end
-[16:53:48] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_nether
-[16:53:49] [Render thread/INFO] (Minecraft) Stopping!
-[16:53:49] [Server thread/INFO] (Minecraft) Player248 lost connection: Disconnected
-[16:53:49] [Server thread/INFO] (Minecraft) Player248 left the game
-[16:53:49] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
-[16:53:49] [Server thread/INFO] (Minecraft) Stopping server
-[16:53:49] [Server thread/INFO] (Minecraft) Saving players
-[16:53:49] [Server thread/INFO] (Minecraft) Saving worlds
-[16:53:49] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:overworld
-[16:53:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_end
-[16:53:50] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_nether
-[16:53:50] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (World1): All chunks are saved
-[16:53:50] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:53:50] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:53:50] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
+[19:41:24] [Worker-Main-1/WARN] (Minecraft) Missing block model: mathmode:block/example_block
+[19:41:25] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/entity_no_outline
+[19:41:25] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/energy_swirl
+[19:41:25] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/energy_swirl
+[19:41:25] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_translucent
+[19:41:25] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/eyes
+[19:41:25] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/eyes
+[19:41:25] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_decal_cutout_no_cull
+[19:41:25] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/breeze_wind
+[19:41:25] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_cutout_no_cull
+[19:41:26] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speaker (2- Realtek(R) Audio)
+[19:41:26] [Render thread/INFO] (Minecraft) Sound engine started
+[19:41:26] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[19:41:26] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:41:26] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:41:26] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:41:26] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[19:41:27] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:41:27] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:41:27] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:41:27] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:41:27] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[19:41:27] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:41:27] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:41:27] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:41:27] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[19:41:29] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:29] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:29] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:29] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:30] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:31] [Render thread/INFO] (Minecraft) Loaded 1373 recipes
+[19:41:31] [Render thread/INFO] (Minecraft) Loaded 1484 advancements
+[19:41:32] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 65 new biomes in 1.171 ms
+[19:41:32] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21.5
+[19:41:32] [Server thread/INFO] (Minecraft) Generating keypair
+[19:41:32] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:33] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[19:41:33] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:41:33] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:41:33] [Render thread/INFO] (Minecraft) Time elapsed: 709 ms
+[19:41:33] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[19:41:33] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[19:41:34] [Server thread/INFO] (Minecraft) Player936[local:E:5cf6fa9b] logged in with entity id 104 at (136.76929724878454, 72.0, 717.7446113480663)
+[19:41:34] [Server thread/INFO] (Minecraft) Player936 joined the game
+[19:41:34] [Render thread/INFO] (Minecraft) Loaded 4 advancements
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:37] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:37] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:38] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:38] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:39] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:39] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:41] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:43] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:48] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloaded resource packs
+[19:41:48] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, mathmode
+[19:41:48] [Worker-Main-13/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
+[19:41:48] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[19:41:48] [Worker-Main-8/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
+[19:41:48] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:overworld
+[19:41:48] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_end
+[19:41:48] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_nether
+[19:41:48] [Worker-Main-16/WARN] (Minecraft) Missing block model: mathmode:block/example_block
+[19:41:48] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/entity_no_outline
+[19:41:48] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/energy_swirl
+[19:41:48] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/energy_swirl
+[19:41:48] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_translucent
+[19:41:48] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/eyes
+[19:41:48] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/eyes
+[19:41:49] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_decal_cutout_no_cull
+[19:41:49] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/breeze_wind
+[19:41:49] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_cutout_no_cull
+[19:41:49] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speaker (2- Realtek(R) Audio)
+[19:41:49] [Render thread/INFO] (Minecraft) Sound engine started
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:41:49] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[19:41:52] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:53] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:53] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:41:53] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:53] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:54] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:54] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:54] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:54] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:54] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:55] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:55] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:55] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:55] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:55] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:56] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:56] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:56] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:58] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:58] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:58] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:58] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:58] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:58] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:58] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:59] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:59] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:59] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:59] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:59] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:59] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:41:59] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:00] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:00] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:00] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:00] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:00] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:00] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:01] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:03] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:03] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:03] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:04] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:04] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:04] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:04] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:04] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:05] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:05] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:06] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:06] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:06] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:08] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:08] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:08] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:08] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:08] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:08] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:08] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:08] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:09] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:09] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:09] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:09] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:09] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:09] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:09] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:09] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:10] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:10] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:10] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:10] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:10] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:10] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:10] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:11] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:11] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:11] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:11] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:11] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[19:42:12] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloaded resource packs
+[19:42:12] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-gametest-api-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, mathmode
+[19:42:12] [Worker-Main-2/INFO] (Minecraft) Found unifont_all_no_pua-16.0.01.hex, loading
+[19:42:12] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[19:42:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:overworld
+[19:42:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_end
+[19:42:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_nether
+[19:42:12] [Worker-Main-2/INFO] (Minecraft) Found unifont_jp_patch-16.0.01.hex, loading
+[19:42:12] [Worker-Main-14/WARN] (Minecraft) Missing block model: mathmode:block/example_block
+[19:42:12] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/entity_no_outline
+[19:42:12] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/energy_swirl
+[19:42:12] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/energy_swirl
+[19:42:12] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_translucent
+[19:42:12] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/eyes
+[19:42:12] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler2 in minecraft:pipeline/eyes
+[19:42:12] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_decal_cutout_no_cull
+[19:42:12] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/breeze_wind
+[19:42:12] [Render thread/WARN] (Minecraft) Found unknown and unsupported uniform Sampler1 in minecraft:pipeline/armor_cutout_no_cull
+[19:42:13] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speaker (2- Realtek(R) Audio)
+[19:42:13] [Render thread/INFO] (Minecraft) Sound engine started
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:42:13] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[19:42:18] [Render thread/INFO] (Minecraft) [System] [CHAT] You clicked on Research Table!
+[19:42:25] [Render thread/INFO] (Minecraft) [System] [CHAT] You clicked on Research Table!
+[19:42:27] [Render thread/INFO] (Minecraft) [System] [CHAT] You clicked on Research Table!
+[19:42:27] [Render thread/INFO] (Minecraft) [System] [CHAT] You clicked on Research Table!
+[19:42:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:35] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:36] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:38] [Render thread/INFO] (Minecraft) [System] [CHAT] You clicked on Research Table!
+[19:42:40] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:42] [Render thread/INFO] (Minecraft) OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH, message='Error has been generated. GL error GL_INVALID_OPERATION in (null): (ID: 173538523) Generic error'
+[19:42:54] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[19:42:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:overworld
+[19:42:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_end
+[19:42:54] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_nether
+[19:42:55] [Render thread/INFO] (Minecraft) Stopping!
+[19:42:55] [Server thread/INFO] (Minecraft) Player936 lost connection: Disconnected
+[19:42:55] [Server thread/INFO] (Minecraft) Player936 left the game
+[19:42:55] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[19:42:55] [Server thread/INFO] (Minecraft) Stopping server
+[19:42:55] [Server thread/INFO] (Minecraft) Saving players
+[19:42:55] [Server thread/INFO] (Minecraft) Saving worlds
+[19:42:55] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:overworld
+[19:42:55] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_end
+[19:42:55] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[World1]'/minecraft:the_nether
+[19:42:55] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (World1): All chunks are saved
+[19:42:55] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:42:55] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:42:55] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved

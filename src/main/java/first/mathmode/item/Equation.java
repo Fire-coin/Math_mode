@@ -17,4 +17,6 @@ public class Equation extends Item {
         user.playSound(SoundEvents.BLOCK_WOOL_BREAK, 1.0F, 1.0F);
         return ActionResult.SUCCESS;
     }
+
+
 }
