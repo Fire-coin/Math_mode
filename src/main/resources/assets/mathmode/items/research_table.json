@@ -1,6 +1,6 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "mathmode:block/example_block"
+    "type": "model",
+    "model": "mathmode:block/research_table"
   }
 }
