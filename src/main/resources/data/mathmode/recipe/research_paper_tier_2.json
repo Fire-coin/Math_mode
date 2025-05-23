@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRI",
+    "RPR",
+    "IRI"
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "P": "mathmode:research_paper_tier_1"
+  },
+  "result": {
+    "id": "mathmode:research_paper_tier_2",
+    "count": 1
+  }
+}

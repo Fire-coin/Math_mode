@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EGE",
+    "GPG",
+    "EGE"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "E": "minecraft:emerald",
+    "P": "mathmode:research_paper_tier_2"
+  },
+  "result": {
+    "id": "mathmode:research_paper_tier_3",
+    "count": 1
+  }
+}

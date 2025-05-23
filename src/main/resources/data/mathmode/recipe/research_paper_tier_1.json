@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LCL",
+    "CPC",
+    "LCL"
+  ],
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "L": "minecraft:lapis_lazuli",
+    "P": "mathmode:research_paper_tier_0"
+  },
+  "result": {
+    "id": "mathmode:research_paper_tier_1",
+    "count": 1
+  }
+}

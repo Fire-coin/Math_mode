@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DOD",
+    "OPO",
+    "DOD"
+  ],
+  "key": {
+    "D": "minecraft:diamond",
+    "O": "minecraft:obsidian",
+    "P": "mathmode:research_paper_tier_3"
+  },
+  "result": {
+    "id": "mathmode:research_paper_tier_4",
+    "count": 1
+  }
+}

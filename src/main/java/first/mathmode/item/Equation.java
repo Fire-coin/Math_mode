@@ -8,7 +8,7 @@ import net.minecraft.util.Hand;
 import net.minecraft.world.World;
 
 public class Equation extends Item {
-    public Equation(Settings settings) {
+    public Equation(int tier, Settings settings) {
         super(settings);
     }
 

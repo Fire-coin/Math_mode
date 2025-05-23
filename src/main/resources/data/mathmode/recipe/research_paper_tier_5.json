@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "NPN",
+    "RRR"
+  ],
+  "key": {
+    "N": "minecraft:netherite_ingot",
+    "R": "minecraft:resin_brick",
+    "P": "mathmode:research_paper_tier_4"
+  },
+  "result": {
+    "id": "mathmode:research_paper_tier_5",
+    "count": 1
+  }
+}
