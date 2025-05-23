@@ -1,7 +1,7 @@
 package first.mathmode.item;
 
-import net.minecraft.item.Item;
-import net.minecraft.item.Items;
+import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
+import net.minecraft.item.*;
 import net.minecraft.registry.RegistryKey;
 import net.minecraft.registry.RegistryKeys;
 import net.minecraft.util.Identifier;
@@ -9,6 +9,7 @@ import net.minecraft.util.Identifier;
 import java.util.function.Function;
 
 public final class ModItems {
+
     private ModItems() {
     }
 
@@ -32,7 +33,17 @@ public final class ModItems {
     public static final Item RESEARCH_PAPER_TIER_5 = register("research_paper_tier_5", (Function) ((settings) -> new ResearchPaper(5, (Item.Settings) settings)));
 
 
-
     public static void initialize() {
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS)
+                .register((itemGroup) -> {
+                    itemGroup.add(EQUATION);
+                    itemGroup.add(ENERGY_ROD);
+                    itemGroup.add(RESEARCH_PAPER_TIER_0);
+                    itemGroup.add(RESEARCH_PAPER_TIER_1);
+                    itemGroup.add(RESEARCH_PAPER_TIER_2);
+                    itemGroup.add(RESEARCH_PAPER_TIER_3);
+                    itemGroup.add(RESEARCH_PAPER_TIER_4);
+                    itemGroup.add(RESEARCH_PAPER_TIER_5);
+                });
     }
 }
