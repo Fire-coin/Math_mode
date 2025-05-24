@@ -1,9 +1,9 @@
-base = "research_paper_tier_"
-for i in range(6):
-    with open(f"assets/mathmode/models/item/{base}{i}.json", 'w') as file:
+names = ["geometry", "pythagoras_theorem", "algebra", "force_delta", "velocity_delta", "limits", "differential_calculus", "force_derivative", "velocity_derivative", "calculus", "mass_energy_equivalence"]
+for i in names:
+    with open(f"assets/mathmode/models/item/{i}.json", 'w') as file:
         file.write(f"""{'{'}
     "parent": "item/generated",
     "textures": {'{'}
-        "layer0": "mathmode:item/{base}{i}"
+        "layer0": "mathmode:item/{i}"
     {'}'}
 {'}'}""")
