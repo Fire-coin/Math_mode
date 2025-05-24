@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PEP",
+    "PGP",
+    "PPP"
+  ],
+  "key": {
+    "G": "mathmode:geometry",
+    "P": "mathmode:research_paper_tier_1",
+    "E": "mathmode:equation"
+  },
+  "result": {
+    "id": "mathmode:pythagoras_theorem",
+    "count": 1
+  }
+}

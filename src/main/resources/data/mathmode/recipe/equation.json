@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CPE",
+    "PPP",
+    "BPI"
+  ],
+  "key": {
+    "C": "minecraft:chest",
+    "P": "mathmode:research_paper_tier_0",
+    "E": "minecraft:egg",
+    "B": "minecraft:bow",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "mathmode:equation",
+    "count": 1
+  }
+}

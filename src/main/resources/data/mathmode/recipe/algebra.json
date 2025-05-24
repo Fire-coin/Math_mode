@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPG",
+    "PDP",
+    "EPP"
+  ],
+  "key": {
+    "G": "mathmode:geometry",
+    "P": "mathmode:research_paper_tier_1",
+    "E": "mathmode:equation",
+    "D": "minecraft:diamond"
+  },
+  "result": {
+    "id": "mathmode:algebra",
+    "count": 1
+  }
+}

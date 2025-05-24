@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CPP",
+    "PAP",
+    "PP#"
+  ],
+  "key": {
+    "C": "minecraft:clock",
+    "P": "mathmode:research_paper_tier_2",
+    "A": "mathmode:algebra",
+    "#": "minecraft:minecart"
+  },
+  "result": {
+    "id": "mathmode:velocity_delta",
+    "count": 1
+  }
+}

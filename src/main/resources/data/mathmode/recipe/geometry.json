@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PCP",
+    "ABD",
+    "PSP"
+  ],
+  "key": {
+    "C": "#minecraft:planks",
+    "P": "mathmode:research_paper_tier_0",
+    "A": "minecraft:apple",
+    "B": "minecraft:bucket",
+    "D": "minecraft:pointed_dripstone",
+    "S": "#minecraft:slabs"
+  },
+  "result": {
+    "id": "mathmode:geometry",
+    "count": 1
+  }
+}

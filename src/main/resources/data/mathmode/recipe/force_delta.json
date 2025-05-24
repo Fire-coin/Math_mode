@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "CA#",
+    "PPP"
+  ],
+  "key": {
+    "C": "minecraft:clock",
+    "P": "mathmode:research_paper_tier_2",
+    "A": "mathmode:algebra",
+    "#": "minecraft:anvil"
+  },
+  "result": {
+    "id": "mathmode:force_delta",
+    "count": 1
+  }
+}
