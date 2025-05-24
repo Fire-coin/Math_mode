@@ -1,18 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "PPA",
-    "PQP",
-    "EPP"
+    "LPA",
+    "PPP",
+    "EPG"
   ],
   "key": {
     "A": "mathmode:algebra",
     "P": "mathmode:research_paper_tier_3",
     "E": "mathmode:equation",
-    "Q": "minecraft:quartz"
+    "L": "mathmode:limits",
+    "G": "minecraft:gold_nugget"
   },
   "result": {
-    "id": "mathmode:limits",
+    "id": "mathmode:differential_calculus",
     "count": 1
   }
 }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPV",
+    "PPP",
+    "EPB"
+  ],
+  "key": {
+    "P": "mathmode:research_paper_tier_4",
+    "E": "mathmode:equation",
+    "D": "mathmode:differential_calculus",
+    "B": "minecraft:netherite_boots",
+    "V": "mathmode:velocity_delta"
+  },
+  "result": {
+    "id": "mathmode:velocity_derivative",
+    "count": 1
+  }
+}

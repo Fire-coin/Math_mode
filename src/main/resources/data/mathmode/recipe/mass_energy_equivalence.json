@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CEP",
+    "APH",
+    "PDB"
+  ],
+  "key": {
+    "P": "mathmode:research_paper_tier_5",
+    "C": "mathmode:calculus",
+    "E": "mathmode:equation",
+    "H": "minecraft:heavy_core",
+    "D": "minecraft:dragon_head",
+    "B": "minecraft:beacon",
+    "A": "minecraft:enchanted_golden_apple"
+  },
+  "result": {
+    "id": "mathmode:mass_energy_equivalence",
+    "count": 1
+  }
+}

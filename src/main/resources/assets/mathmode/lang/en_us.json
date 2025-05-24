@@ -1,10 +1,22 @@
 {
   "item.mathmode.equation": "Equation",
   "block.mathmode.research_table": "Research Table",
+  "item.mathmode.energy_rod": "Energy Rod",
   "item.mathmode.research_paper_tier_0": "Research Paper",
   "item.mathmode.research_paper_tier_1": "Research Paper I",
   "item.mathmode.research_paper_tier_2": "Research Paper II",
   "item.mathmode.research_paper_tier_3": "Research Paper III",
   "item.mathmode.research_paper_tier_4": "Research Paper IV",
-  "item.mathmode.research_paper_tier_5": "Research Paper V"
+  "item.mathmode.research_paper_tier_5": "Research Paper V",
+  "item.mathmode.geometry": "Geometry",
+  "item.mathmode.pythagoras_theorem": "Pytagoras Theorem",
+  "item.mathmode.algebra": "Algebra",
+  "item.mathmode.force_delta": "Force I",
+  "item.mathmode.velocity_delta": "Velocity I",
+  "item.mathmode.limits": "Limits",
+  "item.mathmode.differential_calculus": "Differential Calculus",
+  "item.mathmode.force_derivative": "Force II",
+  "item.mathmode.velocity_derivative": "Velocity II",
+  "item.mathmode.calculus": "Calculus",
+  "item.mathmode.mass_energy_equivalence": "Mass Energy Equivalence"
 }

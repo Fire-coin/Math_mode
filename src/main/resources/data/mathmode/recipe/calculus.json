@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "DES",
+    "PPP"
+  ],
+  "key": {
+    "P": "mathmode:research_paper_tier_4",
+    "E": "mathmode:equation",
+    "D": "mathmode:differential_calculus",
+    "S": "minecraft:sponge"
+  },
+  "result": {
+    "id": "mathmode:calculus",
+    "count": 1
+  }
+}

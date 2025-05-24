@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPF",
+    "PPP",
+    "EPS"
+  ],
+  "key": {
+    "P": "mathmode:research_paper_tier_4",
+    "E": "mathmode:equation",
+    "D": "mathmode:differential_calculus",
+    "S": "minecraft:netherite_sword",
+    "F": "mathmode:force_delta"
+  },
+  "result": {
+    "id": "mathmode:force_derivative",
+    "count": 1
+  }
+}
