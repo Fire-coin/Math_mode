@@ -15,7 +15,7 @@ import net.minecraft.world.World;
 
 public class EnergyRod extends Item {
     public EnergyRod(Settings settings) {
-        super(settings);
+        super(settings.maxCount(1));
     }
 
     @Override

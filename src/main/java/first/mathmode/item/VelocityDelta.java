@@ -8,14 +8,14 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
 import net.minecraft.world.World;
 
-public class ForceDelta extends Equation {
-    public ForceDelta(Item.Settings settings) {
-        super(2, settings); // Force is tier 2 equation
+public class VelocityDelta extends Equation {
+    public VelocityDelta(Item.Settings settings) {
+        super(2, settings); // Speed is tier 2 equation
     }
 
     @Override
     public ActionResult use(World world, PlayerEntity user, Hand hand) {
-        StatusEffectInstance effect = new StatusEffectInstance(StatusEffects.STRENGTH, 20 * 60 * 10, 0);
+        StatusEffectInstance effect = new StatusEffectInstance(StatusEffects.SPEED, 20 * 60 * 10, 0);
         user.addStatusEffect(effect);
 
         return ActionResult.SUCCESS;

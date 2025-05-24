@@ -8,14 +8,14 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
 import net.minecraft.world.World;
 
-public class ForceDelta extends Equation {
-    public ForceDelta(Item.Settings settings) {
-        super(2, settings); // Force is tier 2 equation
+public class ForceDerivative extends Equation {
+    public ForceDerivative(Item.Settings settings) {
+        super(4, settings); // Derivative definition of force is tier 4
     }
 
     @Override
     public ActionResult use(World world, PlayerEntity user, Hand hand) {
-        StatusEffectInstance effect = new StatusEffectInstance(StatusEffects.STRENGTH, 20 * 60 * 10, 0);
+        StatusEffectInstance effect = new StatusEffectInstance(StatusEffects.STRENGTH, 20 * 60 * 20, 1);
         user.addStatusEffect(effect);
 
         return ActionResult.SUCCESS;

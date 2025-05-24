@@ -28,6 +28,13 @@ public final class ModItems {
     public static final Item PYTHAGORAS_THEOREM = register("pythagoras_theorem", (Function) ((settings) -> new Equation(1, (Item.Settings) settings)));
     public static final Item ALGEBRA = register("algebra", (Function) ((settings) -> new Equation(1, (Item.Settings) settings)));
     public static final Item FORCE_DELTA = register("force_delta", ForceDelta::new, new Item.Settings());
+    public static final Item VELOCITY_DELTA = register("velocity_delta", VelocityDelta::new, new Item.Settings());
+    public static final Item LIMITS = register("limits", (Function) ((settings) -> new Equation(3, (Item.Settings) settings)));
+    public static final Item DIFFERENTIAL_CALCULUS = register("differential_calculus", (Function) ((settings) -> new Equation(3, (Item.Settings) settings)));
+    public static final Item FORCE_DERIVATIVE = register("force_derivative", ForceDerivative::new, new Item.Settings());
+    public static final Item VELOCITY_DERIVATIVE = register("velocity_derivative", VelocityDerivative::new, new Item.Settings());
+    public static final Item CALCULUS = register("calculus", (Function) ((settings) -> new Equation(4, (Item.Settings) settings)));
+    public static final Item MASS_ENERGY_EQUIVALENCE = register("mass_energy_equivalence", MassEnergyEquivalence::new, new Item.Settings());
     public static final Item RESEARCH_PAPER_TIER_0 = register("research_paper_tier_0", (Function) ((settings) -> new ResearchPaper(0, (Item.Settings) settings)));
     public static final Item RESEARCH_PAPER_TIER_1 = register("research_paper_tier_1", (Function) ((settings) -> new ResearchPaper(1, (Item.Settings) settings)));
     public static final Item RESEARCH_PAPER_TIER_2 = register("research_paper_tier_2", (Function) ((settings) -> new ResearchPaper(2, (Item.Settings) settings)));
@@ -51,6 +58,13 @@ public final class ModItems {
                     itemGroup.add(PYTHAGORAS_THEOREM);
                     itemGroup.add(ALGEBRA);
                     itemGroup.add(FORCE_DELTA);
+                    itemGroup.add(VELOCITY_DELTA);
+                    itemGroup.add(LIMITS);
+                    itemGroup.add(DIFFERENTIAL_CALCULUS);
+                    itemGroup.add(FORCE_DERIVATIVE);
+                    itemGroup.add(VELOCITY_DERIVATIVE);
+                    itemGroup.add(CALCULUS);
+                    itemGroup.add(MASS_ENERGY_EQUIVALENCE);
                 });
     }
 }
