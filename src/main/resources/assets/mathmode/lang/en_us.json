@@ -18,5 +18,6 @@
   "item.mathmode.force_derivative": "Force II",
   "item.mathmode.velocity_derivative": "Velocity II",
   "item.mathmode.calculus": "Calculus",
-  "item.mathmode.mass_energy_equivalence": "Mass Energy Equivalence"
+  "item.mathmode.mass_energy_equivalence": "Mass Energy Equivalence",
+  "itemGroup.mathmode": "Mathmode Items"
 }
