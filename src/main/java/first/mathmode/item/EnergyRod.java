@@ -1,16 +1,15 @@
 package first.mathmode.item;
 
 import net.minecraft.block.Blocks;
+import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.player.PlayerEntity;
-import net.minecraft.fluid.WaterFluid;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
-import net.minecraft.text.Text;
+import net.minecraft.server.world.ServerWorld;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
 import net.minecraft.util.hit.BlockHitResult;
 import net.minecraft.util.hit.HitResult;
-import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 
 public class EnergyRod extends Item {
@@ -30,13 +29,18 @@ public class EnergyRod extends Item {
                 var pos = blockHit.getBlockPos();
 
                 // Replace that block with water
-                world.setBlockState(pos, Blocks.WATER.getDefaultState());
-
-                // Optional: message the player
-                user.sendMessage(Text.literal("Transformed into water!"), true);
+                world.setBlockState(pos, Blocks.AIR.getDefaultState());
             }
         }
 
         return ActionResult.SUCCESS;
+    }
+
+    @Override
+    public void postHit(ItemStack stack, LivingEntity target, LivingEntity attacker) {
+        World world = attacker.getEntityWorld();
+        if (world.getRandom().nextInt(1000) == 0) {
+            target.kill((ServerWorld) world);
+        }
     }
 }
