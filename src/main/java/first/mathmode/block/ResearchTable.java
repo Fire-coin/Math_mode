@@ -19,13 +19,17 @@ public class ResearchTable extends Block {
     public ResearchTable(Settings settings) {
         super(settings);
     }
+    public static int clicked = 0;
 
 
     @Override
     public ActionResult onUse(BlockState state, World world, BlockPos pos, PlayerEntity player, BlockHitResult hit) {
 
         if (!world.isClient) {
-            player.sendMessage(Text.literal("You clicked on Research Table!"), false);
+            clicked++;
+            if (clicked % 30 == 0 && clicked != 0) {
+                player.sendMessage(Text.literal("You clicked so many times, and yet again without paper..."), false);
+            }
         }
 
         return ActionResult.SUCCESS;
